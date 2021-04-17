@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Wen2021S
 - 👀 I’m interested in learning Python, R and SQL.
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...?
 - 📫 How to reach me ...
 
 <!---
